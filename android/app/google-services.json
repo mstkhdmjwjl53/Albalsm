@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453413650529",
+    "project_id": "al-balsam-store-app",
+    "storage_bucket": "al-balsam-store-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453413650529:android:11011f2e9e05fcd81a6a20",
+        "android_client_info": {
+          "package_name": "com.store.albalsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkNDqhop56FJxbNHgPqxFqB61U1FKTWPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
