@@ -86,7 +86,7 @@ class _LoginPageState extends State<LoginPage> {
                                   // hintStyle: TextStyle(fontFamily: "Arial"),
                                   suffixIcon: Icon(Icons.email),
                                 ),
-                                autovalidateMode: AutovalidateMode.onUserInteraction, // تشغيل التحقق المباشر
+                                autovalidateMode: AutovalidateMode.onUserInteraction, // تشغيل التحقق المبااشر
                                 validator: (value) {
                                   if (value == null || value.isEmpty) {
                                     return "هذا الحقل مطلوب";
