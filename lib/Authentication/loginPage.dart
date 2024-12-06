@@ -160,7 +160,7 @@ class _LoginPageState extends State<LoginPage> {
                                   ],
                                 ),
                               ),
-                              //الدخول كـ زائر
+                              //الدخول كــ زائر
                               SizedBox(
                                 child: Column(
                                   mainAxisAlignment: MainAxisAlignment.end,
